@@ -8,3 +8,6 @@ https://github.com/codigo-iot/Manejo-de-archivos
 
 <div align="center"><img src="https://i.ibb.co/fG5N2sm/Diagrama-ultra.png"></div>
 
+# Resultados
+
+<div align="center"><img src="https://i.ibb.co/QvvM7H4/Resultados-ultra.png"></div>
